@@ -3,8 +3,7 @@ This project make for java api that connect with:
 - http://localhost:8080/api/products
 - {
     "id": 1,
-    "name": "Iphone17",
-    "price": 1000.99
-
-}
+    "name": "Pen",
+    "price": 1$
+  }
 - mvn spring-boot:run (for running project)
